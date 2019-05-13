@@ -75,5 +75,5 @@ typings/
 .serverless
 
 # .idea files
-.idea/*.*
-
+.idea/
+.DS_Store
