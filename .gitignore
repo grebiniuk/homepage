@@ -77,5 +77,4 @@ typings/
 # .idea files
 .idea/
 .DS_Store
-.gitmodules
 dependencies/
