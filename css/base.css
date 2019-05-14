@@ -1256,22 +1256,22 @@ article {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     article {
         width: 723px;
-        margin-top: calc((100% - 723px) / 2);
-        margin-bottom: calc((100% - 723px) / 2);
+        margin-top: calc((100% - 723px) / 4);
+        margin-bottom: calc((100% - 723px) / 4);
     }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     article {
         width: 933px;
-        margin-top: calc((100% - 933px) / 2);
-        margin-bottom: calc((100% - 933px) / 2);
+        margin-top: calc((100% - 933px) / 4);
+        margin-bottom: calc((100% - 933px) / 4);
     }
 }
 @media only screen and (min-width: 1200px) {
     article {
         width: 1127px;
-        margin-top: calc((100% - 1127px) / 2);
-        margin-bottom: calc((100% - 1127px) / 2);
+        margin-top: calc((100% - 1127px) / 4);
+        margin-bottom: calc((100% - 1127px) / 4);
     }
 }
 
